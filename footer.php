@@ -4,13 +4,12 @@
          <h3>Lakshya <span>Fest</span></h3>
          <p class="footer-company-name">Lakshya Fest LDCE 2018</p>
          <div style="margin-top: 15px;">
-            <a href="team.php" class="custom_btn_footer">TEAM</a>
+            <a href="team.php" class="custom_btn_footer">TEAM LAKSHYA</a>
          </div>
          <br>
-                  <h3>Our<span>Sponsors</span></h3>
-                  
-                  <div style="margin-top: 15px;">
-            <a href="spon.php" class="custom_btn_footer">Sponsors</a>
+         <h3>Our Sponsors</h3>
+         <div style="margin-top: 15px;">
+            <a href="home.php#sponsors" class="custom_btn_footer">SPONSORS</a>
          </div>
       </div>
       <div class="col-lg-4 footer_section_margin">

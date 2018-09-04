@@ -11,8 +11,8 @@
          <script>
             function initMap() {
                 var uluru = {
-                    lat: 23.034907,
-                    lng: 72.548150
+                    lat: 23.0338,
+                    lng: 72.5466
                 };
                 var map = new google.maps.Map(document.getElementById('map'), {
                     zoom: 15,
@@ -21,6 +21,12 @@
                 var marker = new google.maps.Marker({
                     position: uluru,
                     map: map
+                });
+                var infoWindow = new google.maps.InfoWindow({
+                    content: '<h1>Lalbhai Dalpatbhai College of Engineering</h1>'
+                });
+                marker.addListener('click', function(){
+                    infoWindow.open(map, marker);
                 });
             }
          </script>

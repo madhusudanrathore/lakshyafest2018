@@ -189,14 +189,14 @@
          <h5>CODE WARS</h5>
          <p>
          <ul>
+            <li> 
+              Codewars in an online competitive programming contest.
+            </li>
             <li>
                Coding enthusiasts, take notice, this is the place where you would want to be if you want to flaunt your coding skills.
             </li>
             <li>
-               This event will consists of two rounds. The participants will be asked to code in both rounds. The questions asked would be competitive in nature.
-            </li>
-            <li>
-               To see or get a feel for the kind of questions that would be asked here, head to “codechef.com”
+             The contest main focuses on programming, data structures and algorithms. The competition will be hosted at hackerrank.com on 14-02-2018 and tentatively around 7pm.
             </li>
             <li>
                <strong>The participation fees for individual is &#8377;30.</strong>
@@ -209,18 +209,6 @@
             </li>
          </ul>
          </p>
-         <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo3">Rules</button>
-         <div id="demo3" class="collapse">
-            <ul>
-               <br>
-               <li>This is a solo event.</li>
-               <li>Cell phones must be switched off.</li>
-               <li>Prerequisites: C,C++,JAVA.</li>
-               <li>Paper will be provided to the participants.</li>
-               <li>Violation of any rule may lead to your disqualification.</li>
-               <li>In case of any dispute, management’s decision will be regarded as final.</li>
-            </ul>
-         </div>
          <a href="https://www.meraevents.com/event/lakshya_2k18?ucode=organizer" class="custom_btn">Register<i class="fa fa-arrow-circle-right fa-lg" aria-hidden="true"></i></a>
       </div>
    </div>

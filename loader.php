@@ -65,19 +65,20 @@
          })
       </script>
       <!-- Back to top button -->
-      <script>
-         $(function(){
-          
-             $(document).on( 'scroll', function(){
-          
-                 if ($(window).scrollTop() > 100) {
-                     $('.scroll-top-wrapper').addClass('show');
-                 } else {
-                     $('.scroll-top-wrapper').removeClass('show');
-                 }
-             });
-         });
-      </script>
+       <script>
+            
+           $(function(){
+            
+               $(document).on( 'scroll', function(){
+            
+                   if ($(window).scrollTop() > 100) {
+                       $('.scroll-top-wrapper').addClass('show');
+                   } else {
+                       $('.scroll-top-wrapper').removeClass('show');
+                   }
+               });
+           });
+           </script>
       <script>
          $(function(){
           
@@ -154,7 +155,10 @@
                   <li><a href="workshop.php">ILLUMINATE</a></li>
                </div>
                <div class="dropdown">
-                  <li><a href="workshop.php">TALKS</a></li>
+                  <li><a href="talks.php">TALKS</a></li>
+               </div>
+               <div class="dropdown">
+                  <li><a href="Online schedule.pdf">Schedule</a></li>
                </div>
                <div class="dropdown">
                   <li class="menu_hover"><a onclick="openNav()" style><i class="fa fa-arrow-circle-down fa-lg" aria-hidden="true"></i></a></li>
@@ -164,7 +168,7 @@
                <li><a onclick="openNavTech()">TECH-RITORY  <i class="fa fa-arrow-circle-down fa-1g" aria-hidden="true"></i></a></li>
                <li><a onclick="openNavZap()">ZAPDOS  <i class="fa fa-arrow-circle-down fa-1g" aria-hidden="true"></i></a></li>
                <li><a href="workshop.php">ILLUMINATE</a></li>
-               <li><a href="workshop.php">TALKS</a></li>
+               <li><a href="talks.php">TALKS</a></li>
                <li><a onclick="openNav()">MORE  <i class="fa fa-arrow-circle-down fa-1g" aria-hidden="true"></i></a></li>
             </div>
          </ul>

@@ -39,8 +39,7 @@
                     <li>The participants have to ensure that room lighting, photography, etc. does not affect the      
                         functioning of the sensors.</li>
                     <li> In case of tie, the design of the Robot may be considered. </li>
-                    <li> If none of the Robots finishes the course, then the one which covered the longest distance in           
-                         less time will be considered the winner. </li>
+                    <li> If none of the Robots finishes the course, then the one which covered the longest distance in less time will be considered the winner. </li>
                     <li>A power supply should be of maximum 24V. </li>
                  <br>
       <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Rules</button>
@@ -49,7 +48,7 @@
             <p>
             <li>The Robot has to follow the line and complete the track in least possible time.</li>
             <li>Maximum 3 touches will be allowed for each round. (Each touch makes 5 sec penalty.) </li>
-            <li>Maximum Four Participants are allowed in a team. </li>
+            <li>Maximum 3 Participants are allowed in a team. </li>
             <li> Team members can be from different colleges.</li>
             <li>The rough sketch of track will be uploaded to site before one day of the event. </li>
             <li>Winners will be decided based upon the scores with minimum number of penalties made. </li>
@@ -62,7 +61,7 @@
             <li>Robot completing the track utilizing least time will win.</li>
             <li>Participants and one securing Top 3 position along with complying to all rules and regulation will be 
                 awarded with Lakshya 2018 Participation Certificate and Winner Certificate respectively.</li>
-            <li><strong>Team size: Maximum 4 Persons per Team</strong></li>
+            <li><strong>Team size: Maximum 3 Persons per Team</strong></li>
             <li><strong> Registration Fees: &#8377;200 per Team.</strong></li>
             <li><strong>Participation certificate will be given to every participant.</strong></li>
             </p>

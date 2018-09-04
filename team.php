@@ -325,6 +325,22 @@
                </div>
             </div>
          </div>
+         
+         <div class="row">
+         <div class="col-md-4"></div>
+         <div class="col-md-4" style="text-align: center;">
+            <div class="thumbnail">
+               <img src="img/deepak.jpg" alt="Lights" style="width:100%">
+               <div class="caption">
+                  <H3 style="text-align: center;">DEEPAK PAL</H3>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4"></div>
+         </div>
+         
+         
+         
       </div>
    </div>
 </div>
