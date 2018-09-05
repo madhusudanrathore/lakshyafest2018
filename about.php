@@ -2,7 +2,7 @@
 
 <title>Lakshya Fest 2018 | About Us</title>
 <!-- Main Image (Make it background and add header="About Us")-->
-<div><img class="img-responsive" src="../img/aboutus.gif" alt="About us" style="background:cover;" ></div>
+<div><img class="img-responsive" src="./img/aboutus.gif" alt="About us" style="background:cover;" ></div>
 <!-- End -->
 <br>
 <br>

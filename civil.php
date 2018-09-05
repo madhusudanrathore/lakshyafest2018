@@ -22,7 +22,7 @@
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/trussroyal.png">
+         <img class="img-thumbnail" src="./img/art/trussroyal.png">
       </div>
       <div class="col-lg-8">
          <h5>TRUSS ROYAL</h5>
@@ -55,7 +55,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/citymania.gif">
+         <img class="img-thumbnail" src="./img/art/citymania.gif">
       </div>
       <div class="col-lg-8">
          <h5> CITY MANIA</h5>
@@ -87,7 +87,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/theodolito.jpg">
+         <img class="img-thumbnail" src="./img/art/theodolito.jpg">
       </div>
       <div class="col-lg-8">
          <h5>THEODO-LIT-O</h5>
@@ -120,7 +120,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/scavengerhunt.png">
+         <img class="img-thumbnail" src="./img/art/scavengerhunt.png">
       </div>
       <div class="col-lg-8">
          <h5>SCAVENGER HUNT</h5>

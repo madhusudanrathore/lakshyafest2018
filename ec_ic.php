@@ -21,7 +21,7 @@
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/arduino.png">
+         <img class="img-thumbnail" src="./img/art/arduino.png">
       </div>
       <div class="col-lg-8">
          <h5>ARDUINO HACK AND MAKE</h5>
@@ -91,7 +91,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/lazer.png">
+         <img class="img-thumbnail" src="./img/art/lazer.png">
       </div>
       <div class="col-lg-8">
          <h5>LAZER MAZE</h5>
@@ -137,7 +137,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/circuitmania.png">
+         <img class="img-thumbnail" src="./img/art/circuitmania.png">
       </div>
       <div class="col-lg-8">
          <h5>CIRCUIT MANIA</h5>
@@ -194,7 +194,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/technosense.jpg">
+         <img class="img-thumbnail" src="./img/art/technosense.jpg">
       </div>
       <div class="col-lg-8">
          <h5>TECHNO SENSE</h5>

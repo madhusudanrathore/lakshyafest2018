@@ -21,7 +21,7 @@
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/bestoutofwaste.png">
+         <img class="img-thumbnail" src="./img/art/bestoutofwaste.png">
       </div>
       <div class="col-lg-8">
          <h5>BEST OUT OF WASTE </h5>
@@ -44,7 +44,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/chainreaction.jpg">
+         <img class="img-thumbnail" src="./img/art/chainreaction.jpg">
       </div>
       <div class="col-lg-8">
          <h5>CHAIN REACTION</h5>
@@ -70,7 +70,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/catapult.png">
+         <img class="img-thumbnail" src="./img/art/catapult.png">
       </div>
       <div class="col-lg-8">
          <h5>CAT-A-PULT</h5>
@@ -114,7 +114,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/electroatv.png">
+         <img class="img-thumbnail" src="./img/art/electroatv.png">
       </div>
       <div class="col-lg-8">
          <h5>ELECTRO ATV</h5>

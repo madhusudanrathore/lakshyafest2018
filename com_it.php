@@ -25,7 +25,7 @@
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/quiz.png">
+         <img class="img-thumbnail" src="./img/art/quiz.png">
       </div>
       <div class="col-lg-8">
          <h5>IT quiz</h5>
@@ -76,7 +76,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/codeswap.png">
+         <img class="img-thumbnail" src="./img/art/codeswap.png">
       </div>
       <div class="col-lg-8">
          <h5>Code Swap</h5>
@@ -134,7 +134,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/insightcoding.png">
+         <img class="img-thumbnail" src="./img/art/insightcoding.png">
       </div>
       <div class="col-lg-8">
          <h5>INSIGHT CODING</h5>
@@ -183,7 +183,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/codewars.png">
+         <img class="img-thumbnail" src="./img/art/codewars.png">
       </div>
       <div class="col-lg-8">
          <h5>CODE WARS</h5>
@@ -219,7 +219,7 @@
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/cipher.jpg">
+         <img class="img-thumbnail" src="./img/art/cipher.jpg">
       </div>
       <div class="col-lg-8">
          <h5>TSCHLOTTERBECK’S CIPHER</h5>

@@ -29,7 +29,7 @@
 <div class="container">
    <div class="row" id="jam">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/justaminute.jpg">
+         <img class="img-thumbnail" src="./img/art/justaminute.jpg">
       </div>
       <div class="col-lg-8">
          <h5>JUST A MINUTE</h5>
@@ -56,7 +56,7 @@
    <br>
    <div class="row" id="MP">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/mockparliament.png">
+         <img class="img-thumbnail" src="./img/art/mockparliament.png">
       </div>
       <div class="col-lg-8">
          <h5>MOCK PARLIAMENT</h5>
@@ -84,7 +84,7 @@
    <br>
    <div class="row" id="gdpi">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/gdpi.jpg">
+         <img class="img-thumbnail" src="./img/art/gdpi.jpg">
       </div>
       <div class="col-lg-8">
          <h5>GD/PI (Group Discussion and Personal Interview)</h5>
@@ -111,7 +111,7 @@
    <br>
    <div class="row" id="quiz">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/quiz.png">
+         <img class="img-thumbnail" src="./img/art/quiz.png">
       </div>
       <div class="col-lg-8">
          <h5>GENERAL QUIZ</h5>
@@ -138,7 +138,7 @@
    <br>
    <div class="row" id="sb">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/spellbee.jpg">
+         <img class="img-thumbnail" src="./img/art/spellbee.jpg">
       </div>
       <div class="col-lg-8">
          <h5>SPELL BEE</h5>

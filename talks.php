@@ -2,7 +2,7 @@
 
 <title>Lakshya Fest 2018 | Talks</title>
 <!-- Main Image -->
-<img class="img-responsive"  src="../img/talk.png" alt="Com_It" style="width:130%;">
+<img class="img-responsive"  src="./img/talk.png" alt="Com_It" style="width:130%;">
 <!-- End -->
 <br>
 <br>
@@ -22,7 +22,7 @@
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/gp.jpg" style="height: 300px;width: 250px">
+         <img class="img-thumbnail" src="./img/gp.jpg" style="height: 300px;width: 250px">
       </div>
      <div class="col-lg-8" style="text-align:center">
               <h5>INAUGRATION CEREMONY</h5>
@@ -42,7 +42,7 @@
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/Sheth.png" style="height: 300px;width: 250px">
+         <img class="img-thumbnail" src="./img/Sheth.png" style="height: 300px;width: 250px">
       </div>
       <div class="col-lg-8" style="text-align:center">
          <p><b>Dr. NR Sheth</b><br>
@@ -60,7 +60,7 @@
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/krishna.jpeg" style="height: 300px;width: 250px">
+         <img class="img-thumbnail" src="./img/krishna.jpeg" style="height: 300px;width: 250px">
       </div>
       <div class="col-lg-8" style="text-align:center">
          <p><b>Mr Krishna Sharma</b><br>
@@ -78,7 +78,7 @@ CYBERX SECURITIES
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/reshma.jpeg" style="height: 300px;width: 250px">
+         <img class="img-thumbnail" src="./img/reshma.jpeg" style="height: 300px;width: 250px">
       </div>
       <div class="col-lg-8" style="text-align:center">
          <p><b>Ms Reshma Shah</b><br>
@@ -97,7 +97,7 @@ Faculty of Technology
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/parth.jpg" style="height: 300px;width: 250px">
+         <img class="img-thumbnail" src="./img/parth.jpg" style="height: 300px;width: 250px">
       </div>
       <div class="col-lg-8" style="text-align:center">
          <p><b>Mr Parth Shah</b><br>
@@ -116,7 +116,7 @@ Ford Motor Company
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/neerja.jpg" style="height: 300px;width: 250px">
+         <img class="img-thumbnail" src="./img/neerja.jpg" style="height: 300px;width: 250px">
       </div>
       <div class="col-lg-8" style="text-align:center">
          <p><b>Dr. Neerja Gotru Rao</b><br>
@@ -135,7 +135,7 @@ Ahmedabad
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/sanjay.jpg" style="height: 300px;width: 250px">
+         <img class="img-thumbnail" src="./img/sanjay.jpg" style="height: 300px;width: 250px">
       </div>
       <div class="col-lg-8" style="text-align:center">
          <p><b>Mr Sanjay Desai</b><br> 

@@ -11,7 +11,7 @@
 <div class="container">
 <div class="row">
    <div class="col-lg-4" style="text-align:center;">
-      <img class="img-thumbnail" src="../img/art/paintball.jpg">
+      <img class="img-thumbnail" src="./img/art/paintball.jpg">
    </div>
    <div class="col-lg-8">
       <h5>PAINTBALL MAYHEM</h5>
@@ -41,7 +41,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align:center;">
-      <img class="img-thumbnail" src="../img/art/sherlocked.gif">
+      <img class="img-thumbnail" src="./img/art/sherlocked.gif">
    </div>
    <div class="col-lg-8">
       <h5>SHER-LOCKED</h5>
@@ -68,7 +68,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align:center;">
-      <img class="img-thumbnail" src="../img/art/lan.png">
+      <img class="img-thumbnail" src="./img/art/lan.png">
    </div>
    <div class="col-lg-8">
       <h5>LAN GAMING</h5>
@@ -100,7 +100,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align:center;">
-      <img class="img-thumbnail" src="../img/art/minimilitia.jpg">
+      <img class="img-thumbnail" src="./img/art/minimilitia.jpg">
    </div>
    <div class="col-lg-8">
       <h5>MINI MILITIA</h5>
@@ -137,7 +137,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align:center;">
-      <img class="img-thumbnail" src="../img/art/cricket.jpg">
+      <img class="img-thumbnail" src="./img/art/cricket.jpg">
    </div>
    <div class="col-lg-8">
       <h5>GULLY CRICKET</h5>
@@ -164,7 +164,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align:center;">
-      <img class="img-thumbnail" src="../img/art/begborrowsteal.gif">
+      <img class="img-thumbnail" src="./img/art/begborrowsteal.gif">
    </div>
    <div class="col-lg-8">
       <h5>BEG-BORROW-STEAL</h5>
@@ -190,7 +190,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align:center;">
-      <img class="img-thumbnail" src="../img/art/lakshyagottalent.gif">
+      <img class="img-thumbnail" src="./img/art/lakshyagottalent.gif">
    </div>
    <div class="col-lg-8">
       <h5>LAKSHYA’S GOT TALENT</h5>
@@ -217,7 +217,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align:center;">
-      <img class="img-thumbnail" src="../img/art/taskforce.jpg">
+      <img class="img-thumbnail" src="./img/art/taskforce.jpg">
    </div>
    <div class="col-lg-8">
       <h5>TASK FORCE</h5>
@@ -271,7 +271,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align:center;">
-      <img class="img-thumbnail" src="../img/art/shutterbugs.jpg">
+      <img class="img-thumbnail" src="./img/art/shutterbugs.jpg">
    </div>
    <div class="col-lg-8">
       <h5>SHUTTERBUGS</h5>
@@ -317,7 +317,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align:center;">
-      <img class="img-thumbnail" src="../img/art/football.gif">
+      <img class="img-thumbnail" src="./img/art/football.gif">
    </div>
    <div class="col-lg-8">
       <h5>STREET FOOTBALL</h5>
@@ -343,7 +343,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align:center;">
-      <img class="img-thumbnail" src="../img/art/volleyball.gif">
+      <img class="img-thumbnail" src="./img/art/volleyball.gif">
    </div>
    <div class="col-lg-8">
       <h5>BARRIER O VOLLEYBALL</h5>

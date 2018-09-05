@@ -2,7 +2,7 @@
 
 <title>Lakshya Fest 2018 | Zapdos</title>
 <!-- Main Image -->
-<div><img class="img-responsive"  src="../img/zapdos.jpg" alt="Zapdos"></div>
+<div><img class="img-responsive"  src="./img/zapdos.jpg" alt="Zapdos"></div>
 <!-- End -->
 <br>
 <br>
@@ -24,7 +24,7 @@
 <div class="container">
    <div class="row">
       <div class="col-md-4  new_div" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/gd.png">
+         <img class="img-thumbnail" src="./img/gd.png">
       </div>
       <div class="col-md-8 container_content new_div" style="text-align:center;">
          <h1 class="container_heading wow zoomIn" data-wow-duration="4s">Mind Spark</h1>
@@ -36,7 +36,7 @@
    <hr>
    <div class="row">
       <div class="col-md-4  new_div" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/fun.png">
+         <img class="img-thumbnail" src="./img/fun.png">
       </div>
       <div class="col-md-8 container_content new_div" style="text-align:center;">
          <h1 class="container_heading wow zoomIn" data-wow-duration="4s">Carnival-o-fun</h1>

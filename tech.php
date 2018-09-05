@@ -26,7 +26,7 @@
 <div class="container">
    <div class="row">
       <div class="col-md-4  new_div" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/codesters.png">
+         <img class="img-thumbnail" src="./img/art/codesters.png">
       </div>
       <div class="col-md-8 container_content new_div" style="text-align:center;">
          <h1 class="container_heading wow zoomIn" data-wow-duration="4s">CODESTERS</h1>
@@ -37,7 +37,7 @@
    <hr>
    <div class="row">
       <div class="col-md-4  new_div" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/Mech.png" style="height:75%;width:75%;">
+         <img class="img-thumbnail" src="./img/Mech.png" style="height:75%;width:75%;">
       </div>
       <div class="col-md-8 container_content new_div" style="text-align:center;">
          <h1 class="container_heading wow zoomIn" data-wow-duration="4s">MECH-AUTO</h1>
@@ -48,7 +48,7 @@
    <hr>
    <div class="row">
       <div class="col-md-4  new_div" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/elec.png" style="height:75%;width:75%;">
+         <img class="img-thumbnail" src="./img/elec.png" style="height:75%;width:75%;">
       </div>
       <div class="col-md-8 container_content new_div" style="text-align:center;">
          <h1 class="container_heading wow zoomIn" data-wow-duration="4s">ELECTROQUEST</h1>
@@ -60,7 +60,7 @@
    <hr>
    <div class="row">
       <div class="col-md-4  new_div" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/chem.png" style="height:75%;width:75%;">
+         <img class="img-thumbnail" src="./img/art/chem.png" style="height:75%;width:75%;">
       </div>
       <div class="col-md-8 container_content new_div" style="text-align:center;">
          <h1 class="container_heading wow zoomIn" data-wow-duration="4s">CHEMOLUTION</h1>
@@ -73,7 +73,7 @@
    <hr>
    <div class="row">
       <div class="col-md-4  new_div" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/civ.png" style="height:75%;width:75%;">
+         <img class="img-thumbnail" src="./img/civ.png" style="height:75%;width:75%;">
       </div>
       <div class="col-md-8 container_content new_div" style="text-align:center;">
          <h1 class="container_heading wow zoomIn" data-wow-duration="4s">CIVILLUSION</h1>
@@ -85,7 +85,7 @@
    <hr>
    <div class="row">
       <div class="col-md-4  new_div" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/rob.png" style="height:75%;width:75%;">
+         <img class="img-thumbnail" src="./img/rob.png" style="height:75%;width:75%;">
       </div>
       <div class="col-md-8 container_content new_div" style="text-align:center;">
          <h1 class="container_heading wow zoomIn" data-wow-duration="4s">ROBOSAPIENS</h1>

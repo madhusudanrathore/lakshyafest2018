@@ -3,9 +3,9 @@
 <title>Lakshya Fest 2018 | Home</title>
 <!-- Main Image -->
 <div class="w3-content w3-section">
-  <a href="#"><img class="mySlides" src="../img/main.jpg" style="width:100%"></a>
-  <a href="workshop.php"><img class="mySlides" src="../img/wk.jpg" style="width:100%"></a>
-  <a href="robotics.php"><img class="mySlides" src="../img/robo.jpg" style="width:100%"></a>
+  <a href="#"><img class="mySlides" src="./img/main.jpg" style="width:100%"></a>
+  <a href="workshop.php"><img class="mySlides" src="./img/wk.jpg" style="width:100%"></a>
+  <a href="robotics.php"><img class="mySlides" src="./img/robo.jpg" style="width:100%"></a>
 </div>
 
 <script>
@@ -43,7 +43,7 @@ function carousel() {
    </blockquote>
    <div class="row">
       <div class="col-lg-4  new_div" style="text-align:center;">
-         <img class="img-thumbnail"  src="../img/talk.png">
+         <img class="img-thumbnail"  src="./img/talk.png">
       </div>
       <div class="col-lg-8 new_div" style="text-align:center;">
          <h1 class="wow zoomIn" data-wow-duration="2s">TALKS</h1>
@@ -54,7 +54,7 @@ function carousel() {
    <div class="row">
    <div class="row">
       <div class="col-lg-4  new_div" style="text-align:center;">
-         <img class="img-thumbnail"  src="../img/techritoryMainPageDisp.jpg">
+         <img class="img-thumbnail"  src="./img/techritoryMainPageDisp.jpg">
       </div>
       <div class="col-lg-8 new_div" style="text-align:center;">
          <h1 class="wow zoomIn" data-wow-duration="2s">TECH-RITORY</h1>
@@ -64,7 +64,7 @@ function carousel() {
    </div>
    <div class="row">
       <div class="col-lg-4  new_div" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/zapdosMainPageDisp.jpg">
+         <img class="img-thumbnail" src="./img/zapdosMainPageDisp.jpg">
       </div>
       <div class="col-lg-8 new_div"  style="text-align:center;">
          <h1 class="wow zoomIn" data-wow-duration="2s">ZAPDOS</h1>
@@ -74,7 +74,7 @@ function carousel() {
    </div>
    <div class="row">
       <div class="col-lg-4  new_div"  style="text-align:center;">
-         <img class="img-thumbnail" src="../img/workshopMainPageDisp.jpg">
+         <img class="img-thumbnail" src="./img/workshopMainPageDisp.jpg">
       </div>
       <div class="col-lg-8 new_div"  style="text-align:center;">
          <h1 class="wow zoomIn" data-wow-duration="2s">ILLUMINATE</h1>

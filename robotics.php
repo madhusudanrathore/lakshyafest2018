@@ -22,7 +22,7 @@
 <div class="container">
 <div class="row">
    <div class="col-lg-4" style="text-align: center;">
-      <img class="img-thumbnail" src="../img/art/mazerunner.jpg">
+      <img class="img-thumbnail" src="./img/art/mazerunner.jpg">
    </div>
    <div class="col-lg-8">
       <h5>MAZE RUNNER</h5>
@@ -76,7 +76,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4"  style="text-align: center;">
-      <img class="img-thumbnail" src="../img/art/deathrace.jpg">
+      <img class="img-thumbnail" src="./img/art/deathrace.jpg">
    </div>
    <div class="col-lg-8">
        <h5>DEATH RACE</h5>
@@ -105,7 +105,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align: center;">
-      <img class="img-thumbnail" src="../img/art/robosoccer.jpg">
+      <img class="img-thumbnail" src="./img/art/robosoccer.jpg">
    </div>
    <div class="col-lg-8">
       <h5>ROBO SOCCER</h5>
@@ -134,7 +134,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align: center;">
-      <img class="img-thumbnail" src="../img/art/realsteel.png">
+      <img class="img-thumbnail" src="./img/art/realsteel.png">
    </div>
    <div class="col-lg-8">
       <h5>REAL STEEL</h5>
@@ -218,7 +218,7 @@
 <br>
 <div class="row">
    <div class="col-lg-4" style="text-align: center;">
-      <img class="img-thumbnail" src="../img/art/quadtitans.gif">
+      <img class="img-thumbnail" src="./img/art/quadtitans.gif">
    </div>
    <div class="col-lg-8">
       <h5>QUAD-TITANS</h5>

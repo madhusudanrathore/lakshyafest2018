@@ -22,7 +22,7 @@
 <div class="container">
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/chtranscar.png">
+         <img class="img-thumbnail" src="./img/art/chtranscar.png">
       </div>
       <div class="col-lg-8">
          <h5>CH–TRANSCAR </h5>
@@ -58,7 +58,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/chemq.png">
+         <img class="img-thumbnail" src="./img/art/chemq.png">
       </div>
       <div class="col-lg-8">
          <h5>CHEM-Q</h5>
@@ -89,7 +89,7 @@
    <br>
    <div class="row">
       <div class="col-lg-4" style="text-align:center;">
-         <img class="img-thumbnail" src="../img/art/chemohunt.png">
+         <img class="img-thumbnail" src="./img/art/chemohunt.png">
       </div>
       <div class="col-lg-8">
          <h5>CHEM-O-HUNT : (find your path)</h5>
